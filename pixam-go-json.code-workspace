@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "pixam-go-json"
+    },
+    {
+      "path": "app"
+    }
+  ],
+  "settings": {}
+}
