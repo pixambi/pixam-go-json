@@ -1,2 +1,9 @@
 # pixam-go-json
-A go module for handling json
+
+Commonly Used TOols
+
+Included Functionality:
+
+- [] Read JSON
+- [] Write JSON
+- [] Create Directory If it Doesn't Exist
